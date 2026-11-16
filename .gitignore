@@ -1,0 +1,10 @@
+# Hozin Web2APK — Builder-only (authoring HTML drag-drop, BUKAN konverter ke APK)
+*.keystore
+debug.keystore
+local.properties
+*.iml
+.idea/
+.gradle/
+build/
+/app/build/
+.DS_Store

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hozin Web2APK</string>
+    <string name="subtitle">Builder HTML drag-and-drop</string>
+    <string name="new_project">Proyek Baru</string>
+    <string name="project_name_hint">Nama proyek</string>
+    <string name="cancel">Batal</string>
+    <string name="create">Buat</string>
+    <string name="delete">Hapus</string>
+    <string name="duplicate">Duplikat</string>
+    <string name="open">Buka</string>
+    <string name="confirm_delete">Hapus proyek ini?</string>
+    <string name="no_projects">Belum ada proyek.\nTap + untuk bikin yang baru.</string>
+    <string name="blocks_count">%1$d blok</string>
+    <string name="properties">Properti Blok</string>
+    <string name="label_text">Teks</string>
+    <string name="label_link">Link</string>
+    <string name="link_hint_button">https://contoh.com (tujuan tombol)</string>
+    <string name="link_hint_video">Link YouTube atau video (https://…)</string>
+    <string name="link_hint_navbar">Link menu (opsional)</string>
+    <string name="label_size">Ukuran</string>
+    <string name="size_small">Kecil</string>
+    <string name="size_medium">Sedang</string>
+    <string name="size_large">Besar</string>
+    <string name="label_color">Warna</string>
+    <string name="label_height">Tinggi</string>
+    <string name="pick_image">Pilih Gambar</string>
+    <string name="move_up">Naik</string>
+    <string name="move_down">Turun</string>
+    <string name="delete_block">Hapus Blok</string>
+    <string name="preview">Pratinjau</string>
+    <string name="edit">Edit</string>
+    <string name="export_zip">Export ZIP</string>
+    <string name="exporting">Membuat ZIP…</string>
+    <string name="export_done">ZIP siap dibagikan</string>
+    <string name="export_failed">Gagal membuat ZIP</string>
+    <string name="undo">Urungkan</string>
+    <string name="redo">Ulangi</string>
+    <string name="saved">Tersimpan</string>
+    <string name="drag_hint">Tahan lalu seret komponen ke canvas, atau tap untuk menambah di akhir</string>
+    <string name="video_placeholder">Video</string>
+    <string name="image_empty">Gambar belum dipilih</string>
+    <string name="untitled">Tanpa judul</string>
+</resources>

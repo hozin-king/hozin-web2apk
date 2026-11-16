@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#12181D</color>
+    <color name="bg_canvas">#0E1318</color>
+    <color name="surface">#1B2530</color>
+    <color name="surface2">#24313D</color>
+    <color name="teal">#2DD4BF</color>
+    <color name="teal_dark">#14B8A6</color>
+    <color name="mint">#99F6E4</color>
+    <color name="text_primary">#E6EDEF</color>
+    <color name="text_muted">#8A9BA8</color>
+    <color name="danger">#EF4444</color>
+    <color name="white">#FFFFFF</color>
+</resources>
